@@ -1,28 +1,27 @@
-== README
+# MyHandMade
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Are you looking for customized eco-friendly Promotional Jute Bags? Your search ends here!
 
-Things you may want to cover:
+HandCraft Worldwide Company is one of the leading Manufacturer, Wholesaler and Exporter of Promotional Jute Bags.
 
-* Ruby version
+We have an excellent track record of making the perfect jute bag to match your designs, your timescales and your budget. The time lead can vary from 2-4 weeks depending on quantity, design, color and your budget.
+Whether you need a 1,000 jute bags for your organisation or 10,000 to 50,000 bags for your promotional campaigns, we have the experience to make the whole process simple and stress free. We can supply perfect ethical jute bags for your needs printed with a company name or logo
 
-* System dependencies
+All product images on website are for illustrative purposes only and if you have a different request don’t hesitate to ask. If you’re looking for something you don’t see, we can probably make it for you affordably.
 
-* Configuration
+  - Paper Bags Manufacturer & Exporter
+  - Jute Bags Manufacturer & Exporter
+  - Wax made goods
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+>  We are techie guys, aimed to bring echo green and make our earth clean. Amjad is our producer, Abhinaya is our Manufacturer unit, Alekya is head of sales team, Dheeraj is developer and sriphani is our tester. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+### Tech
+* [Ruby] - ruby 2.1.5p273 (2014-11-13 revision 48405) [i686-linux]
+* [Rails] - 'rails', '4.2.6'
+
+
+### Contact
+
+send2dheeraj@outlook.in
+8285855857
